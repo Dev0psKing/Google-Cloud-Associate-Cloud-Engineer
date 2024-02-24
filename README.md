@@ -16,7 +16,9 @@
 <p align="center">
 Associate Cloud Engineers deploy applications, monitor operations, and manage enterprise solutions. They use Google Cloud Console and the command-line interface to perform common platform-based tasks to maintain one or more deployed solutions that leverage Google-managed or self-managed services on Google Cloud.
 <br />  
-My ACE <a href = "https://www.credential.net/41bc5a7f-4c35-4f98-8b60-c5ae4156edbd">Certification</a> | <a href = "https://www.cloudskillsboost.google/public_profiles/096e04ea-cbfa-4dc2-8da6-ac9b2ded8ee2">cloudskillboost</a> profile
+GOOGLE LAB CHALLENGE HANDS ON <a href = "https://github.com/Dev0psKing/Google-Cloud-Engineer-Challenge">LINKS</a> 
+| <a 
+href = "https://www.cloudskillsboost.google/profile/badges">cloudskillboost</a> profile
 </p>
 
 **The Associate Cloud Engineer exam assesses your ability to:**
