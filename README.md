@@ -18,7 +18,7 @@ Associate Cloud Engineers deploy applications, monitor operations, and manage en
 <br />  
 GOOGLE LAB CHALLENGE HANDS ON <a href = "https://github.com/Dev0psKing/Google-Cloud-Engineer-Challenge">LINKS</a> 
 | <a 
-href = "https://www.cloudskillsboost.google/profile/badges">cloudskillboost</a> profile
+href = "https://www.cloudskillsboost.google/profile/badges">CLOUDSKILLBOOST</a> profile
 </p>
 
 **The Associate Cloud Engineer exam assesses your ability to:**
