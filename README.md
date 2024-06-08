@@ -22,7 +22,6 @@ href = "https://www.cloudskillsboost.google/profile/badges">CLOUDSKILLBOOST</a> 
 </p>
 
 **The Associate Cloud Engineer exam assesses your ability to:**
-
 - Set up a cloud solution environment
 - Plan and configure a cloud solution
 - Deploy and implement a cloud solution
