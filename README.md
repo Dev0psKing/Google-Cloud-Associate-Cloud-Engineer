@@ -100,5 +100,6 @@ href = "https://www.cloudskillsboost.google/profile/badges">CLOUDSKILLBOOST</a> 
 <div align="center">
 <a href="https://cloud.google.com/training/cloud-infrastructure/#cloud-engineer-learning-path">
   <img src="https://user-images.githubusercontent.com/59575502/188867248-b4ebef03-049d-4e0e-8641-d389a1b7c479.png"  align="center">
+  
 </a>
 </div>
